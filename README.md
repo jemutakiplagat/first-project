@@ -1,14 +1,14 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# greetings
 
 > Description the project.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
+- Major languages-cs,html
+- Frameworks-linters check
 - Technologies used
 
 ## Live Demo (if available)
@@ -42,7 +42,7 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
+- GitHub: [@githubhandle](https://github.com/jemutakiplagat)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
